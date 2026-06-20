@@ -1,0 +1,20 @@
+# deps & build
+node_modules/
+.next/
+out/
+dist/
+
+# env / secrets — never commit
+.env
+.env.local
+.env.*.local
+website/.env
+website/.env.local
+website/.env.*.local
+
+# scratch
+working_files/
+*.log
+
+# os
+.DS_Store
