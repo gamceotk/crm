@@ -18,3 +18,5 @@ working_files/
 
 # os
 .DS_Store
+.vercel
+.env*.local
